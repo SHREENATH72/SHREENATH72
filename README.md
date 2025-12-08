@@ -1,9 +1,6 @@
 # 💫 About Me:
 I'm Shreenath, a web development learner focused on JavaScript, React, and building real-world frontend projects. My goal is to become a full-stack MERN developer.<br>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" 
-     width="350px" 
-     align="right" 
-     alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="350px" align="right" alt="">
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenameis_shreenath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenath-patil/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilshreenath455@gmail.com) 
